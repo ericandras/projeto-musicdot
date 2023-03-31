@@ -8,15 +8,29 @@
 .rodape__lista-midias-sociais {
     display: flex;
     justify-content: center;
+    margin-top: 1em;
 }
-.rodape__lista-midias-sociais img{
+.rodape__item-midias-sociais{
+    width: 2.62em;
+}
+.rodape__item-midias-sociais img{
     width: 100%;
+    margin: 0 .25em;
 }
 .rodape__titulo {
+    margin-bottom: 1em;
     font-size: 1.45em;
     font-weight: bold;
     text-transform: uppercase;
 }
 .rodape_item-lista{
     font-weight: 500;
+    margin: 0.62em 0;
 }
+.rodape__infos-empresa{
+    line-height: 1.5;
+}
+.rodape__secao{
+    margin-top: 2em;
+}
+
